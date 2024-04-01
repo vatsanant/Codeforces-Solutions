@@ -1,3 +1,5 @@
+![](https://github.com/vatsanant/Codeforces-Solutions/blob/main/giphy.gif)
+
 # Codeforces-Solutions
 - Contains solutions to Codeforces' problems.
 - Solutions are organized in the order they were solved
