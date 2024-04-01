@@ -1,4 +1,6 @@
-![](https://github.com/vatsanant/Codeforces-Solutions/blob/main/giphy.gif)
+<p align="center">
+  <img src="https://github.com/vatsanant/Codeforces-Solutions/blob/main/giphy.gif" alt="animated" />
+</p>
 
 # Codeforces-Solutions
 - Contains solutions to Codeforces' problems.
